@@ -1,0 +1,26 @@
+ body{
+      background-color: #F6CEE3;
+   }
+
+   div {
+
+    background-color: #F781BE;
+    width: 300px;
+    padding: 25px;
+    margin: 100px;
+    border-radius: 25px;
+   }
+
+   .mycss
+   {
+     width: 43%;
+     position: absolute;
+     top: 105px;
+     left: 390px;
+     border-top-left-radius: 25px;
+     border-top-right-radius: 25px;
+   }
+
+   .glyphicon {
+    font-size: 20px;
+   }
